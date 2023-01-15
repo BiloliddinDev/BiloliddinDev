@@ -35,12 +35,12 @@
 <br>
 <br>
 
+
+<img src="https://github.com/Rashidov01/Rashidov01/blob/output/github-contribution-grid-snake.svg">
+
+<br>
+
 ##
-
-<a href="https://github.com/bilol9876">
-![Snake animation](https://github.com/Rashidov01/Rashidov01/blob/output/github-contribution-grid-snake.svg)
-</a>
-
 📈 **My GitHub Stats:"**
 
 <div display="flex">
