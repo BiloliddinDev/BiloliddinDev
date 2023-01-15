@@ -16,6 +16,7 @@
 <a href="https://www.instagram.com/uzb_legend_1/" target="_blank"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram"></a> 
 <a href="https://t.me/Biloliddin_Dev" target="_blank"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"></a>
 <a href="https://www.linkedin.com/in/biloliddin-salimov-239875243/" target="_blank"><img width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+  <a href="bilol09876@gmail.com" target="_blank"><img width="50" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>
 </div>
 
 ## 
