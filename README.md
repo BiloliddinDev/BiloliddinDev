@@ -1,9 +1,15 @@
 <a href="https://github.com/bilol9876">
-<img align="center" alt="GIF" src="https://www.onelinkads.com/wp-content/uploads/2021/08/Front-End-Development-Skills.png">
+<img  alt="GIF" src="https://academy.evnedev.com/img/frontend-banner/frontend-banner-bg.png">
 </a> 
 <br>
+<br>
+
 
 # Hi there,Biloliddin__Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+
+<br>
+
+
 ## My motto "Katta ish qilishning yagona yo‘li bu qilayotgan ishingizni sevishdir"
 
 <div display="flex">
@@ -14,6 +20,10 @@
 
 ## 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/developer.gif" width="400" height="300"/>
+
+<br>
+<br>
+<br>
 
 **Talking about Personal Stuffs:**
 
