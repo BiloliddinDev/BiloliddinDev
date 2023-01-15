@@ -1,11 +1,11 @@
 # Hi there,Biloliddin__Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 ## My motto "Katta ish qilishning yagona yo‘li bu qilayotgan ishingizni sevishdir"
 
-
-<a href="https://www.instagram.com/uzb_legend_1/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram"></a> 
-<a href="https://t.me/Biloliddin_Dev" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"></a>
-<a href="https://www.linkedin.com/in/biloliddin-salimov-239875243/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"></a>
-
+<div display="flex">
+<a href="https://www.instagram.com/uzb_legend_1/" target="_blank"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram"></a> 
+<a href="https://t.me/Biloliddin_Dev" target="_blank"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"></a>
+<a href="https://www.linkedin.com/in/biloliddin-salimov-239875243/" target="_blank"><img width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+</div>
 
 ## 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/developer.gif" width="400" height="300"/>
@@ -26,7 +26,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+
 <br>
 <br>
 
