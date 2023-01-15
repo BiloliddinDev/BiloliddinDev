@@ -7,7 +7,7 @@
 
 # Hi there,Biloliddin__Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<br>
+
 
 
 ## My motto "Katta ish qilishning yagona yo‘li bu qilayotgan ishingizni sevishdir"
