@@ -1,5 +1,8 @@
+<a href="https://github.com/bilol9876">
+<img align="center" alt="GIF" src="https://www.onelinkads.com/wp-content/uploads/2021/08/Front-End-Development-Skills.png">
+</a> 
+<br>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 # Hi there,Biloliddin__Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 ## My motto "Katta ish qilishning yagona yo‘li bu qilayotgan ishingizni sevishdir"
 
@@ -34,7 +37,9 @@
 
 ##
 
+<a href="https://github.com/bilol9876">
 ![Snake animation](https://github.com/Rashidov01/Rashidov01/blob/output/github-contribution-grid-snake.svg)
+</a>
 
 📈 **My GitHub Stats:"**
 
