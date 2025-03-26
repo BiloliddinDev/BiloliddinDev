@@ -1,61 +1,72 @@
 <a href="https://github.com/bilol9876">
-<img alt="GIF" src="https://academy.evnedev.com/img/frontend-banner/frontend-banner-bg.png">
+  <img alt="Biloliddin__Dev" src="https://academy.evnedev.com/img/frontend-banner/frontend-banner-bg.png">
 </a> 
-<br>
-<br>
 
-# Hi there, Biloliddin__Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+# Hi there, I'm Biloliddin__Dev! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-## My motto: "Katta ish qilishning yagona yo‘li bu qilayotgan ishingizni sevishdir"
 
-<div display="flex">
-<a href="https://www.instagram.com/uzb_legend_1/" target="_blank"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram"></a> 
-<a href="https://t.me/Biloliddin_Dev" target="_blank"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"></a>
-<a href="https://www.linkedin.com/in/biloliddin-salimov-239875243/" target="_blank"><img width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-<a href="mailto:bilol09876@gmail.com" target="_blank"><img width="50" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>
+## "The only way to do great work is to love what you do."
+
+### 🌍 Connect with me:
+<div>
+  <a href="https://www.instagram.com/Biloliddin__Dev" target="_blank">
+    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
+  </a>
+  <a href="https://t.me/Biloliddin_Dev" target="_blank">
+    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram">
+  </a>
+  <a href="https://www.linkedin.com/in/biloliddin-salimov-239875243/" target="_blank">
+    <img width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+  </a>
+  <a href="mailto:bilol09876@gmail.com" target="_blank">
+    <img width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"         alt="Email">
+  </a>
+   <a href="https://www.facebook.com/bilol.salimov.731" target="_blank">
+    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png"         alt="Email">
+  </a>
 </div>
 
-## 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/developer.gif" width="400" height="300"/>
+---
 
-<br>
-<br>
-<br>
+## 🚀 About Me
+- 🔭 Nowdeys working at **Kyuu**  Full e-commerce without extra costs, where I recently completed a **CRM system for the Ministry of Oil and Gas** in Uzbekistan. Now, I'm developing a **CRM for a kitchen-related business**.
+- 🎯 Passionate about **Frontend Development**, focusing on **React.js, Next.js, and UI/UX design**.
+- 🌱 Constantly learning new technologies like **TypeScript, Node.js, and Cybersecurity**.
+- 💬 Ask me anything! I'll be happy to help.
+- ⚡ Fun fact: I love coding challenges and tech discussions.
+---
 
-**Talking about Personal Stuffs:**
+## 🛠️ Tech Stack
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="30" alt="HTML">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="30" alt="CSS">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="30" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="30" alt="React">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="30" alt="Next.js">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="30" alt="Tailwind CSS">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="30" alt="Git">
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQGoJ0aEWZ6Nug/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1686052318378?e=2147483647&v=beta&t=R0XCFMzi0WzKfrb_4NFUNfiS-DjIHbHd2k6pCILXvUA" width="30" alt="Git">
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/hono-6ge6rolcrcsqnvk7r685s.png/hono-lni310gpnzm7h0sumu9xrk.png?_a=DAJFJtWIZAAC" width="30" alt="Git">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdKj0luKnS60quv6sXxn5JzSZ8Mk0kcFbAA&s" width="30" alt="Git">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_poHZD7zedIFVi_xyvSwkXCSsfmhNYElEQA&s" width="30" alt="Git">
+  <img src="https://pssolutions.me/wp-content/uploads/2023/01/React-Native-Logo.png" width="30" alt="Git">
+ 
+</div>
 
-- 🔭 I’m currently working at BMG Soft IT company, where I recently completed a CRM system project for the Ministry of Oil and Gas in Uzbekistan. I'm now working on a CRM project for a kitchen-related business.
-- 💬 Ask me about anything. I will try to help you as much as I can.
-
-##
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" />
-<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Zod" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zod/zod.png" />
-
-<br>
-<br>
-
+---
 <a href="https://github.com/bilol9876">
-  <img src="https://github.com/Rashidov01/Rashidov01/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662864935959/QSn1SEfOl.gif" alt="GitHub Snake Contribution">
 </a>
 
-<br>
+---
 
-##
-📈 **My GitHub Stats:"**
+### 🚀 Projects & Achievements:
+- ✅ **CRM System for Ministry of Oil & Gas** - Successfully deployed a government-level CRM.
+- ✅ **Kitchen CRM** - Currently developing a system to manage kitchen business operations.
+- ✅ **Quran App** - Built a Quran reading & listening app for mobile users.
+- ✅ **Mehrigiyo Website** - Developed a fully functional website for a herbal company.
+- ✅ **Ganya Project** - Developed an advanced e-commerce platform specializing in high-quality consumer goods. The project featured a user-friendly interface, seamless payment integrations, and an optimized shopping experience. Built with **React.js, Next.js, Tailwind CSS, and Redux**, ensuring smooth performance and scalability.
 
-<div display="flex">
-  <p>
-   <!-- You can add GitHub stats here if you want -->
-  </p>
-</div>
+---
+
+📩 **Contact Me:** If you're interested in working with me or just want to connect, feel free to reach out through my social links above!
